@@ -1,0 +1,5 @@
+dallandırma:
+mainden bir kopye aldığımızda yeni bir dal oluşturmuş oluruz
+grup çalışmalarında kullanılabilir
+örenğin: bir grup çalışması var ve herkesin görevi yazacağı kod belli bunun için gruptaki herkes için bir dal
+oluşturulur. Herkes kendi kodunu yazar ve daha sonra dallar birleştirilir ve proje tamamlanmış olur.
