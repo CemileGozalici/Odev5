@@ -1,0 +1,5 @@
+Sanal sunucu üzerinde git kullanma
+Github/gitlab ile entegrasyon kurma
+Yerel git üzerinde commitleme
+Git üzerinden github/gitlab'a kod gönderme
+Kodu commitleme, tagleme ve dallandırma örneklerinin yapılması
